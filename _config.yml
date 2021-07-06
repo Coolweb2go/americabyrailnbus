@@ -7,6 +7,8 @@ description: Travel tips for foreign visitors and Americans travelling the USA b
 baseurl: "/ubuild-jekyll"
 url: ''
 defaults:
+- scope: ''
+  values: ''
 - scope:
     path: ''
   values:
