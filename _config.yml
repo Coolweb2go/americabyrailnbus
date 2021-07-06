@@ -9,10 +9,6 @@ url: ''
 defaults:
 - scope: ''
   values: ''
-- scope:
-    path: ''
-  values:
-    layout: default
 plugins:
 - jekyll-feed
 - jekyll-menus
