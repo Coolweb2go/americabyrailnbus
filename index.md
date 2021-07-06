@@ -58,8 +58,8 @@ page_sections:
     alt_text: Customize Blocks
 - template: 1-column-text
   block: one-column-1
-  slug: responsive
-  headline: 16 Fully Responsive Design Blocks
+  slug: besttraveltipsforsummertravelusa2021
+  headline: Best travel tips for Summer 2021
   content: |
     The Design Blocks can be used without Forestry but to harness the power
     of Blocks we recommend using <a href="https://forestry.io">Forestry</a>. Once the site is imported you can immediately
