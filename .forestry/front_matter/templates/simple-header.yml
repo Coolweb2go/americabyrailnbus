@@ -10,3 +10,4 @@ fields:
 - type: file
   label: Logo
   name: logo
+  default: "/uploads/2021/07/06/americabyrailandbus-logo.jpg"
