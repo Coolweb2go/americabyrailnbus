@@ -4,7 +4,7 @@ author: Elle G
 email: mydigitalpicasso@yahoo.com
 description: Travel tips for foreign visitors and Americans travelling the USA by
   bus and train
-baseurl: "/ubuild-jekyll"
+baseurl: "/"
 url: ''
 defaults:
 - scope: ''
