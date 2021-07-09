@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Travel Tips-(copy)
-date: 2021-07-05 07:00:00 +0000
+date: 2021-07-05T07:00:00.000+00:00
 page_sections:
 - template: detail-content
   block: text-1
@@ -14,5 +14,9 @@ page_sections:
     herd immunity, and people are going to want to travel."</p><p class="gnt_ar_b_p">There
     is still plenty of time to plan and enjoy a wonderful summer trip, if you are
     willing to be a little flexible.</p>
+menu:
+  main:
+    weight: 2
+    title: Donate
 
 ---
