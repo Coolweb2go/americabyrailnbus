@@ -2,14 +2,14 @@
 label: navigation-header-w-button
 hide_body: false
 fields:
+- type: file
+  name: logo
+  label: Logo
 - type: text
   hidden: true
   label: block
   name: block
   default: header-2
-- type: file
-  name: logo
-  label: Logo
 - type: field_group_list
   name: navigation
   label: Navigation
