@@ -9,8 +9,8 @@ page_sections:
   navigation:
   - link: "/"
     link_text: About
-  - link: "#swap"
-    link_text: Swap
+  - link: traveltips
+    link_text: Travel Tips
   - link: "#customize"
     link_text: Customize
   - link: "#responsive"
