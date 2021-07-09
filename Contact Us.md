@@ -7,5 +7,9 @@ navigation:
 cta:
   url: contactus
   button_text: Contact Us
+menu:
+  main:
+    weight: 2
+    title: ''
 
 ---
