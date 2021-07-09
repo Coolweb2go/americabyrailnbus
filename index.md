@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Home Travelling the USA by Rail and Bus
-date: 2017-11-22T23:00:00.000+00:00
+date: 2021-07-07 22:00:00 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
@@ -9,17 +9,23 @@ page_sections:
   navigation:
   - link: "/"
     link_text: About
+    imagehere: ''
   - link: traveltips
     link_text: Travel Tips
+    imagehere: ''
   - link: "#customize"
     link_text: Customize
+    imagehere: ''
   - link: "#responsive"
     link_text: Responsive
+    imagehere: ''
   - link: "#blocks"
     link_text: Blocks
+    imagehere: ''
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import
+  support: ''
 - template: hero-banner-w-image
   block: hero-2
   slug: features
