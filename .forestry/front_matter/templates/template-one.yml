@@ -1,0 +1,10 @@
+---
+label: Template One
+hide_body: false
+fields:
+- name: first
+  type: text
+  config:
+    required: false
+  label: First
+  description: add first content
