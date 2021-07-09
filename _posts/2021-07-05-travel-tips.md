@@ -3,6 +3,10 @@ layout: blocks
 title: Travel Tips
 date: 2021-07-05T07:00:00.000+00:00
 page_sections:
+- template: ''
+  block: ''
+  headline: ''
+  content: ''
 - template: detail-content
   block: text-1
   headline: Useful Travel Tips
